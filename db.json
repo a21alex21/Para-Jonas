@@ -1,0 +1,82 @@
+{
+  "todo": [
+    {
+      "description": "Teste 40",
+      "done": false,
+      "id": 2
+    },
+    {
+      "description": "teste 2",
+      "done": false,
+      "id": 4
+    },
+    {
+      "description": "teste 1",
+      "done": false,
+      "id": 5
+    },
+    {
+      "description": "teste 4",
+      "done": false,
+      "id": 6
+    },
+    {
+      "description": "teste 50",
+      "done": false,
+      "id": 7
+    },
+    {
+      "description": " teste 6",
+      "done": false,
+      "id": 8
+    }
+  ],
+  "customer": [
+    {
+      "name": "Nicollas",
+      "age": "23",
+      "document": "11111122222",
+      "tel": "223232-2222",
+      "state": "3",
+      "id": 5
+    },
+    {
+      "name": "Alex Santos",
+      "age": "45",
+      "document": "124.983.900-34",
+      "tel": "1192345-6789",
+      "state": "2",
+      "id": 6
+    },
+    {
+      "name": "alex",
+      "age": "290",
+      "document": "12345678901",
+      "tel": "1111111-1111",
+      "state": "1",
+      "id": 7
+    },
+    {
+      "name": "Carol",
+      "age": "25",
+      "document": "111111118888888",
+      "tel": "11111-11111",
+      "state": "1",
+      "id": 9
+    }
+  ],
+  "states": [
+    {
+      "id": 1,
+      "name": "SP"
+    },
+    {
+      "id": 2,
+      "name": "RJ"
+    },
+    {
+      "id": 3,
+      "name": "MG"
+    }
+  ]
+}
